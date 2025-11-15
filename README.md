@@ -7,7 +7,7 @@ This project demonstrates practical **data analytics, visualization, and machine
 ---
 
 ### 🚀 Live Demo
-👉 [**Employee Churn Streamlit App**](https://employee-churn-app-7thfij6hqrduxappe6fom8g.streamlit.app/)
+👉 [**Employee Churn Streamlit App**](https://huggingface.co/spaces/nazharrr/Employee-Churn)
 
 ---
 
